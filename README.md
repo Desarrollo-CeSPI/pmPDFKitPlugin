@@ -15,7 +15,7 @@ wkhtmltopdf library is required. You can download it from [wkhtmltopdf on Google
 ```json
 {
   "require": {
-    "desarrollo-cespi/dc-reloaded-form-extra-plugin": "dev-master"
+    "desarrollo-cespi/pm-p-d-f-kit-plugin": "dev-master"
   }
 }
 ```

@@ -1,5 +1,5 @@
 {
-    "name": "desarrollo-cespi/pm-pdf-kit-plugin",
+    "name": "desarrollo-cespi/pm-p-d-f-kit-plugin",
     "description": "symfony1 plugin that enables you to export any page as a PDF file by only adding the pdf format to the request",
     "license": "MIT",
     "type": "symfony1-plugin",
