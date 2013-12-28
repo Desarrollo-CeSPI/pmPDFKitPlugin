@@ -64,8 +64,7 @@ default:
   param: { sf_format: html }
 ```
 
-* You can save any view to a file (instead of inline view in the browser)
-    using the pmPDFKit class.
+* You can save any view to a file (instead of inline view in the browser) using the pmPDFKit class.
   
 * Specify extra parameters for wkhtmltopdf appending them to the url:
   
