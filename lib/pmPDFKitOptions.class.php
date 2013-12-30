@@ -136,7 +136,7 @@ class pmPDFKitOptions
     {
       if ($request->hasParameter($option))
       {
-        $options[$option] = $request->getParameter($option);
+        $options[$option] = urldecode($request->getParameter($option));
       }
     }
     
